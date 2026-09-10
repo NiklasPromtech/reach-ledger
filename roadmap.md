@@ -2,8 +2,8 @@
 
 - [x] Keep all content as dummy data and design-only interactions
 
-- [ ] Build white LinkedIn-inspired design system and shared navigation
-- [ ] Build landing and login pages
-- [ ] Build account selection page
-- [ ] Build Analytics, Campaign management, and CRM workspace pages
-- [ ] Verify desktop/mobile layouts and interactions
+- [x] Build white LinkedIn-inspired design system and shared navigation
+- [x] Build landing and login pages
+- [x] Build account selection page
+- [x] Build Analytics, Campaign management, and CRM workspace pages
+- [x] Verify desktop/mobile layouts and interactions
